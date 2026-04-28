@@ -1,0 +1,7 @@
+streamlit
+akshare
+pandas
+plotly
+requests
+wordcloud
+matplotlib
